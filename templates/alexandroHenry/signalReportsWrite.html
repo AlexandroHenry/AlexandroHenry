@@ -8,12 +8,49 @@
 <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-lite.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-lite.min.js"></script>
 
+<!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5/dist/css/bootstrap.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5/dist/js/bootstrap.bundle.min.js" type="module"></script> -->
+
+
+<script type="module">
+  import Tags from "https://cdn.jsdelivr.net/gh/lekoala/bootstrap5-tags@master/tags.js";
+  Tags.init("select[multiple]");
+</script>
+
+
 <form action="/signalreports/write" method="post">
 
     <div class="mb-4">
         <label for="title" class="form-label">제목</label>
         <input type="text" class="form-control" name="title" id="title" placeholder="제목">
     </div>
+
+    <div class="mb-4">
+      <label for="brief" class="form-label">Briefing</label>
+      <input type="text" class="form-control" name="brief" id="brief" placeholder="Brief Summary">
+    </div>
+
+    
+    <!-- Bullish 회사 태그 -->
+    <div class="mb-4">
+      <label for="bullishTags" class="form-label">Bullish</label>
+      <select class="form-select" id="bullishTags" name="bullishTags" multiple data-allow-new="true" data-separator=" |,|  ">
+        <option value="">Type a tag...</option><!-- you need at least one option with the placeholder -->
+      </select>
+    </div>
+  <!-- Bullish 회사 태그 -->
+
+    <!-- Bearlish 회사 태그 -->
+
+    <div class="mb-4">
+      <label for="bearishTags" class="form-label">Bearish</label>
+      <select class="form-select" id="bearishTags" name="bearishTags" multiple data-allow-new="true" data-separator=" |,|  ">
+        <option value="">Type a tag...</option><!-- you need at least one option with the placeholder -->
+      </select>
+    </div>
+
+    <!-- Bearlish 회사 태그 -->
+
 
     <div class="mb-4">
         <textarea id="summernote" name="body"></textarea>

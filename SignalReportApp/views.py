@@ -21,9 +21,13 @@ def signalCreate(request):
         return render(request, "alexandroHenry/signalReportsWrite.html")
     elif request.method == 'POST':
         title = request.POST['title']
+        brief = request.POST['brief']
+        bullish = request.POST.getlist('bullishTags')
+        bearish = request.POST.getlist('bearishTags')
         body = request.POST['body']
 
-        report_data = {'title': title, 'body': body}
+
+        report_data = {'title': title, 'brief': brief, 'bullish': bullish, 'bearish': bearish, 'body': body}
 
         print(report_data)
         signalReport_serializer = SignalReportSerializer(data=report_data)

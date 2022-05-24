@@ -7,5 +7,8 @@ class SignalReportSerializer(serializers.ModelSerializer):
         model = SignalReport
         fields = ('id',
                   'title',
-                  'body'
+                  'body',
+                  'brief',
+                  'bullish',
+                  'bearish'
                   )
