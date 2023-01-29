@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 > 🏆 49 Contributions in the Year 2023
  > 
-> 📦 338.9 kB Used in GitHub's Storage 
+> 📦 338.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -117,5 +117,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AlexandroHenry/AlexandroHenry/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2023 18:35:33 UTC
+ Last Updated on 29/01/2023 18:35:36 UTC
 <!--END_SECTION:waka-->
