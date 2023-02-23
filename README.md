@@ -45,47 +45,45 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 66 Contributions in the Year 2023
+> 📦 354.0 kB Used in GitHub's Storage 
  > 
-> 📦 353.9 kB Used in GitHub's Storage 
+> 🏆 66 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 54 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning       17 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-🌆 Daytime      112 commits       ██████████████░░░░░░░░░░░   56.85 % 
-🌃 Evening       39 commits       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-🌙 Night         29 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-
+🌞 Morning                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+🌆 Daytime                112 commits         ██████████████░░░░░░░░░░░   56.85 % 
+🌃 Evening                39 commits          █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+🌙 Night                  29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday          36 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Tuesday         32 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Wednesday       23 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Thursday        46 commits       █████░░░░░░░░░░░░░░░░░░░░   23.35 % 
-Friday          27 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Saturday        28 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Sunday           5 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-
+Monday                   36 commits          █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Tuesday                  32 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Wednesday                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Thursday                 46 commits          ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Friday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Saturday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Seoul
+🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -98,24 +96,23 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in Swift** 
 
 ```text
-Swift                    51 repos            ██████████████████████░░░   91.07 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Swift                    51 repos            ███████████████████████░░   91.07 % 
 Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-
 ```
+
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/AlexandroHenry/AlexandroHenry/main/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/AlexandroHenry/AlexandroHenry/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2023 18:38:04 UTC
+ Last Updated on 23/02/2023 18:38:46 UTC
 <!--END_SECTION:waka-->
