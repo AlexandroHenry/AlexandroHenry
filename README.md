@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 하승철 (Alexandro Henry)
 
 <p align="center" dir="auto">
-  <img src="https://img.shields.io/badge/flutter?style=flat&logo=iOS&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=Swift&logoColor=white"/>
