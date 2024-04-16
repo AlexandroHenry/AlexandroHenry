@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
   <br>
